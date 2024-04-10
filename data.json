@@ -1,0 +1,452 @@
+[
+    {
+        "id":"1",
+        "rank":"1",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":99,
+        "numberOfStores":"999",
+        "imageUrl":"https://picsum.photos/200/300?random=1"
+    },
+    {
+        "id":"2",
+        "rank":"2",
+        "name":"Starbucks",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":88,
+        "numberOfStores":"888",
+        "imageUrl":"https://picsum.photos/200/300?random=2"
+    },
+    {
+        "id":"3",
+        "rank":"3",
+        "name":"Chick-fil-A",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":77,
+        "numberOfStores":"777",
+        "imageUrl":"https://picsum.photos/200/300?random=3"
+    },
+    {
+        "id":"4",
+        "rank":"4",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":44,
+        "numberOfStores":"444",
+        "imageUrl":"https://picsum.photos/200/300?random=4"
+    },
+    {
+        "id":"5",
+        "rank":"5",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":55,
+        "numberOfStores":"555",
+        "imageUrl":"https://picsum.photos/200/300?random=5"
+    },
+    {
+        "id":"6",
+        "rank":"6",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":666,
+        "numberOfStores":"6666",
+        "imageUrl":"https://picsum.photos/200/300?random=6"
+    },
+    {
+        "id":"7",
+        "rank":"7",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":77,
+        "numberOfStores":"777",
+        "imageUrl":"https://picsum.photos/200/300?random=7"
+    },
+    {
+        "id":"8",
+        "rank":"8",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":888,
+        "numberOfStores":"8888",
+        "imageUrl":"https://picsum.photos/200/300?random=8"
+    },
+    {
+        "id":"9",
+        "rank":"9",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":999,
+        "numberOfStores":"9999",
+        "imageUrl":"https://picsum.photos/200/300?random=9"
+    },
+    {
+        "id":"10",
+        "rank":"10",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":101010,
+        "numberOfStores":"10101010",
+        "imageUrl":"https://picsum.photos/200/300?random=10"
+    },
+    {
+        "id":"11",
+        "rank":"11",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":111111,
+        "numberOfStores":"11111111",
+        "imageUrl":"https://picsum.photos/200/300?random=11"
+    },
+    {
+        "id":"12",
+        "rank":"12",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":121212,
+        "numberOfStores":"12121212",
+        "imageUrl":"https://picsum.photos/200/300?random=12"
+    },
+    {
+        "id":"13",
+        "rank":"13",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":131313,
+        "numberOfStores":"13131313",
+        "imageUrl":"https://picsum.photos/200/300?random=13"
+    },
+    {
+        "id":"14",
+        "rank":"14",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":141414,
+        "numberOfStores":"14141414",
+        "imageUrl":"https://picsum.photos/200/300?random=14"
+    },
+    {
+        "id":"15",
+        "rank":"15",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":151515,
+        "numberOfStores":"15151515",
+        "imageUrl":"https://picsum.photos/200/300?random=15"
+    },
+    {
+        "id":"16",
+        "rank":"16",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":161616,
+        "numberOfStores":"16161616",
+        "imageUrl":"https://picsum.photos/200/300?random=16"
+    },
+    {
+        "id":"17",
+        "rank":"17",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":171717,
+        "numberOfStores":"17171717",
+        "imageUrl":"https://picsum.photos/200/300?random=17"
+    },
+    {
+        "id":"18",
+        "rank":"18",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":181818,
+        "numberOfStores":"18181818",
+        "imageUrl":"https://picsum.photos/200/300?random=18"
+    },
+    {
+        "id":"19",
+        "rank":"19",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":191919,
+        "numberOfStores":"19191919",
+        "imageUrl":"https://picsum.photos/200/300?random=19"
+    },
+    {
+        "id":"20",
+        "rank":"20",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":202020,
+        "numberOfStores":"20202020",
+        "imageUrl":"https://picsum.photos/200/300?random=20"
+    },
+    {
+        "id":"21",
+        "rank":"21",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":212121,
+        "numberOfStores":"21212121",
+        "imageUrl":"https://picsum.photos/200/300?random=21"
+    },
+    {
+        "id":"22",
+        "rank":"22",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":222222,
+        "numberOfStores":"22222222",
+        "imageUrl":"https://picsum.photos/200/300?random=22"
+    },
+    {
+        "id":"23",
+        "rank":"23",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":232323,
+        "numberOfStores":"23232323",
+        "imageUrl":"https://picsum.photos/200/300?random=23"
+    },
+    {
+        "id":"24",
+        "rank":"24",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":242424,
+        "numberOfStores":"24242424",
+        "imageUrl":"https://picsum.photos/200/300?random=24"
+    },
+    {
+        "id":"25",
+        "rank":"25",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":252525,
+        "numberOfStores":"25252525",
+        "imageUrl":"https://picsum.photos/200/300?random=25"
+    },
+    {
+        "id":"26",
+        "rank":"26",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":262626,
+        "numberOfStores":"26262626",
+        "imageUrl":"https://picsum.photos/200/300?random=26"
+    },
+    {
+        "id":"27",
+        "rank":"27",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":272727,
+        "numberOfStores":"27272727",
+        "imageUrl":"https://picsum.photos/200/300?random=27"
+    },
+    {
+        "id":"28",
+        "rank":"28",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":282828,
+        "numberOfStores":"28282828",
+        "imageUrl":"https://picsum.photos/200/300?random=28"
+    },
+    {
+        "id":"29",
+        "rank":"29",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":292929,
+        "numberOfStores":"29292929",
+        "imageUrl":"https://picsum.photos/200/300?random=29"
+    },
+    {
+        "id":"30",
+        "rank":"30",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":303030,
+        "numberOfStores":"30303030",
+        "imageUrl":"https://picsum.photos/200/300?random=30"
+    },
+    {
+        "id":"31",
+        "rank":"31",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":313131,
+        "numberOfStores":"31313131",
+        "imageUrl":"https://picsum.photos/200/300?random=31"
+    },
+    {
+        "id":"32",
+        "rank":"32",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":323232,
+        "numberOfStores":"32323232",
+        "imageUrl":"https://picsum.photos/200/300?random=32"
+    },
+    {
+        "id":"33",
+        "rank":"33",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":333333,
+        "numberOfStores":"33333333",
+        "imageUrl":"https://picsum.photos/200/300?random=33"
+    },
+    {
+        "id":"34",
+        "rank":"34",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":343434,
+        "numberOfStores":"34343434",
+        "imageUrl":"https://picsum.photos/200/300?random=34"
+    },
+    {
+        "id":"35",
+        "rank":"35",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":353535,
+        "numberOfStores":"35353535",
+        "imageUrl":"https://picsum.photos/200/300?random=35"
+    },
+    {
+        "id":"36",
+        "rank":"36",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":363636,
+        "numberOfStores":"36363636",
+        "imageUrl":"https://picsum.photos/200/300?random=36"
+    },
+    {
+        "id":"37",
+        "rank":"37",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":373737,
+        "numberOfStores":"37373737",
+        "imageUrl":"https://picsum.photos/200/300?random=37"
+    },
+    {
+        "id":"38",
+        "rank":"38",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":383838,
+        "numberOfStores":"38383838",
+        "imageUrl":"https://picsum.photos/200/300?random=38"
+    },
+    {
+        "id":"39",
+        "rank":"39",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":393939,
+        "numberOfStores":"39393939",
+        "imageUrl":"https://picsum.photos/200/300?random=39"
+    },
+    {
+        "id":"40",
+        "rank":"40",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":404040,
+        "numberOfStores":"40404040",
+        "imageUrl":"https://picsum.photos/200/300?random=40"
+    },
+    {
+        "id":"41",
+        "rank":"41",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":414141,
+        "numberOfStores":"41414141",
+        "imageUrl":"https://picsum.photos/200/300?random=41"
+    },
+    {
+        "id":"42",
+        "rank":"42",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":424242,
+        "numberOfStores":"42424242",
+        "imageUrl":"https://picsum.photos/200/300?random=42"
+    },
+    {
+        "id":"43",
+        "rank":"43",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":434343,
+        "numberOfStores":"43434343",
+        "imageUrl":"https://picsum.photos/200/300?random=43"
+    },
+    {
+        "id":"44",
+        "rank":"44",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":444444,
+        "numberOfStores":"44444444",
+        "imageUrl":"https://picsum.photos/200/300?random=44"
+    },
+    {
+        "id":"45",
+        "rank":"45",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":454545,
+        "numberOfStores":"45454545",
+        "imageUrl":"https://picsum.photos/200/300?random=45"
+    },
+    {
+        "id":"46",
+        "rank":"46",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":464646,
+        "numberOfStores":"46464646",
+        "imageUrl":"https://picsum.photos/200/300?random=46"
+    },
+    {
+        "id":"47",
+        "rank":"47",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":474747,
+        "numberOfStores":"47474747",
+        "imageUrl":"https://picsum.photos/200/300?random=47"
+    },
+    {
+        "id":"48",
+        "rank":"48",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":484848,
+        "numberOfStores":"48484848",
+        "imageUrl":"https://picsum.photos/200/300?random=48"
+    },
+    {
+        "id":"49",
+        "rank":"49",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":494949,
+        "numberOfStores":"49494949",
+        "imageUrl":"https://picsum.photos/200/300?random=49"
+    },
+    {
+        "id":"50",
+        "rank":"50",
+        "name":"McDonalds",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
+        "revenue":505050,
+        "numberOfStores":"50505050",
+        "imageUrl":"https://picsum.photos/200/300?random=50"
+    }
+]
