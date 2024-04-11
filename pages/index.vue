@@ -5,7 +5,7 @@
             <NuxtLink to="/restaurants">Go to restaurants</NuxtLink>
 
         </div>
-        <RestaurantAd></RestaurantAd>
+        
     </div>
 </template>
 
