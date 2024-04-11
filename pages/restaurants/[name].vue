@@ -6,7 +6,17 @@ const route = useRoute();//取得路由實例
 const name = route.params.name
 // 從資料集data.json中逐筆比對，當資料集中餐廳名稱r.name等於用戶點擊的餐廳名稱name時(透過路由實例方法取得)
 // 將比對符合的r.name都撈取出來存放在restaurant中
-const restaurant = restaurants.find(r => r.name === name)
+const restaurant = restaurants.find((r) => r.name === name)
+
+useSeoMeta({
+    title: (restaurant as any).value ? name : "404 - Restaurant not found",
+    meta: [
+        {
+            name: "viewport",
+            conotent:"width=device-width"
+        }
+    ]
+})
 </script>
 
 <template>
