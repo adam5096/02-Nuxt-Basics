@@ -29,7 +29,7 @@
     {
         "id":"4",
         "rank":"4",
-        "name":"McDonalds",
+        "name":"Taco Bell",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":44,
         "numberOfStores":"444",
@@ -38,7 +38,7 @@
     {
         "id":"5",
         "rank":"5",
-        "name":"McDonalds",
+        "name":"Wendy's",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":55,
         "numberOfStores":"555",
@@ -47,7 +47,7 @@
     {
         "id":"6",
         "rank":"6",
-        "name":"McDonalds",
+        "name":"Burger King",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":666,
         "numberOfStores":"6666",
@@ -56,7 +56,7 @@
     {
         "id":"7",
         "rank":"7",
-        "name":"McDonalds",
+        "name":"Dunkin'",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":77,
         "numberOfStores":"777",
@@ -65,7 +65,7 @@
     {
         "id":"8",
         "rank":"8",
-        "name":"McDonalds",
+        "name":"Subway",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":888,
         "numberOfStores":"8888",
@@ -74,7 +74,7 @@
     {
         "id":"9",
         "rank":"9",
-        "name":"McDonalds",
+        "name":"Domino's",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":999,
         "numberOfStores":"9999",
@@ -83,7 +83,7 @@
     {
         "id":"10",
         "rank":"10",
-        "name":"McDonalds",
+        "name":"Chipoite Mexican Grill",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":101010,
         "numberOfStores":"10101010",
@@ -227,7 +227,7 @@
     {
         "id":"26",
         "rank":"26",
-        "name":"McDonalds",
+        "name":"Whataburger",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":262626,
         "numberOfStores":"26262626",
@@ -236,7 +236,7 @@
     {
         "id":"27",
         "rank":"27",
-        "name":"McDonalds",
+        "name":"Texas Roadhouse",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":272727,
         "numberOfStores":"27272727",
@@ -245,7 +245,7 @@
     {
         "id":"28",
         "rank":"28",
-        "name":"McDonalds",
+        "name":"IHOP",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":282828,
         "numberOfStores":"28282828",
@@ -254,7 +254,7 @@
     {
         "id":"29",
         "rank":"29",
-        "name":"McDonalds",
+        "name":"Outback Steakhouse",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":292929,
         "numberOfStores":"29292929",
@@ -263,7 +263,7 @@
     {
         "id":"30",
         "rank":"30",
-        "name":"McDonalds",
+        "name":"Zaxby's",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":303030,
         "numberOfStores":"30303030",
@@ -272,7 +272,7 @@
     {
         "id":"31",
         "rank":"31",
-        "name":"McDonalds",
+        "name":"Culver's",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":313131,
         "numberOfStores":"31313131",
@@ -281,7 +281,7 @@
     {
         "id":"32",
         "rank":"32",
-        "name":"McDonalds",
+        "name":"Jimmy John's Gourmet Sandwitches",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":323232,
         "numberOfStores":"32323232",
@@ -290,7 +290,7 @@
     {
         "id":"33",
         "rank":"33",
-        "name":"McDonalds",
+        "name":"Wingstop",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":333333,
         "numberOfStores":"33333333",
@@ -299,7 +299,7 @@
     {
         "id":"34",
         "rank":"34",
-        "name":"McDonalds",
+        "name":"Hardee's",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":343434,
         "numberOfStores":"34343434",
@@ -308,7 +308,7 @@
     {
         "id":"35",
         "rank":"35",
-        "name":"McDonalds",
+        "name":"Cracker Barrel",
         "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut a fuga minima. Doloremque tempora quae cupiditate quos, commodi repellendus eius ipsam beatae sunt cumque quidem dolore aspernatur laudantium incidunt provident.",
         "revenue":353535,
         "numberOfStores":"35353535",
