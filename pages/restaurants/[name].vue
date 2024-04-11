@@ -31,8 +31,6 @@ const restaurant = restaurants.find(r => r.name === name)
                 </div>
             </div>
         </NuxtLayout>
-
-
         <div class="restaurant-not-found" v-else>
             <!-- 採用error.vue所設置樣式 -->
             <NuxtLayout name="error">
